@@ -1,0 +1,4 @@
+interface:
+  display_name: "业财融合分析"
+  short_description: "Help with finance-business analysis tasks"
+  default_prompt: "Use $finance-business-integration-analysis to analyze a finance-business integration case or summarize a financial management topic."
